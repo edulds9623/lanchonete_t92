@@ -1,2 +1,2 @@
 # lanchonete_t92
-Projeto da lanchonete das aulas de c" da UC12
+Projeto de Sistema da Lanchonete da turma T92 do Senac Santo André
