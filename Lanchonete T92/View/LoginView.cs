@@ -20,27 +20,12 @@ namespace Lanchonete_T92
             // escreve o texto no Console (saida)
             //Debug.WriteLine("A tela foi montada.");
 
-            InitializeComponent();// inicializa os componentes da tela 
+            InitializeComponent();// inicializa os componentes da tela
 
-            // chamamos a função/método da classe LoginViewController.cs
-            // Instanciar um objeto da classe 
+            // chamamos a função/método da classe LoginController.cs
+            // Instanciar um objeto da classe
             LoginController loginC = new LoginController( this );
-
-            //Mudamos a cor da tela loginView
-            //Application.OpenForms["LoginView"].BackColor = Color.FromArgb(255, 0, 0); 
-
-
-
            
-
-            
-           
-
-        }
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
         }
 
 

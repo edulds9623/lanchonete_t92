@@ -46,9 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="config.cs" />
-    <Compile Include="Controller\loginController.cs" />
-    <Compile Include="Model\UsuarioModel.cs" />
+    <Compile Include="Config.cs" />
+    <Compile Include="Controller\LoginController.cs" />
+    <Compile Include="Model\UsuariosModel.cs" />
     <Compile Include="View\LoginView.cs">
       <SubType>Form</SubType>
     </Compile>
